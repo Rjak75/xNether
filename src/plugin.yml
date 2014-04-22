@@ -1,0 +1,10 @@
+name: ${project.name}
+main: ${project.groupId}.xnether.Xnether
+
+author: Rjak75
+version: ${project.version}
+description: Brings players back to the portal they have entered before.
+website: http://www.luronix.com
+
+depend: []
+soft-depend: []
